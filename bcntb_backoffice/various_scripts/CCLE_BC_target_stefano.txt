@@ -1,0 +1,57 @@
+Name	Target	Target_Details	Type	Type_Derived_From	Gender	Ethnicity	Age	ER	PR	Her2	Notes
+AU565	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	Caucasian	43	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+BT-20	Carcinoma	Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	74	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+BT-474	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	60	1	1	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+BT-483	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	23	1	1	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+BT-549	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	72	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+CAL-120	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	NS	43	NS	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+CAL-148	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	NS	58	NS	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+CAL-51	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	NS	45	0	NS	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+CAL-85-1	Adenocarcinoma	Adenocarcinoma	NS	NS	Female	NS	35	0	NS	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+CAMA-1	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	Caucasian	51	1	1	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+DU4475	Carcinoma	Carcinoma	Metastatic	Skin Carcinoma	Female	Caucasian	70	NS	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+EFM-19	Ductal Carcinoma	Ductal Carcinoma	Metastatic	Pleural Effusion	Female	Caucasian	50	1	1	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+EFM-192A	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	Caucasian	46	1	1	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+#EVSA-T	Carcinoma	Carcinoma	Metastatic	Ascitic Effusion	Female	NS	NA	0	1	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1143	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	52	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1187	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	41	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1395	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	43	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1419	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Hispanic	42	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1428	Adenocarcinoma	Adenocarcinoma	Metastatic	Adenocarcinoma and Pleural Effusion	Female	Caucasian	49	1	1	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1500	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Black	32	1	1	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1569	Carcinoma	Carcinoma (Metaplastic)	Primary Tumour	Primary Tumour	Female	Black	70	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1599	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	44	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1806	Carcinoma	Carcinoma (Acantholytic Squamous Cell )	Primary Tumour	Primary Tumour	Female	Black	60	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1937	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	23	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC1954	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	East Indian	61	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC202	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	82	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC. Discontinued from ATCC.
+HCC2157	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Black	48	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC2218	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	NA	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC. Discontinued from ATCC.
+HCC38	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	50	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HCC70	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Black	49	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+HDQ-P1	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	50	0	0	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+Hs274T	Adenocarcinoma	Adenocarcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	66	NS	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+Hs281T	Adenocarcinoma	Adenocarcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	37	NS	NS	NS	Clinical information obtained from ATCC and Jiang et. al (2016).
+Hs343T	Adenocarcinoma	Adenocarcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	47	NS	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+Hs578T	Carcinoma	Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	74	0	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+Hs606T	Carcinoma	Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	44	NS	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+Hs739T	Adenocarcinoma	Adenocarcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	52	NS	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+Hs742T	Scirrhous Adenocarcinoma	Scirrhous Adenocarcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	71	NS	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+JIMT-1	Ductal Carcinoma	Ductal Carcinoma	Metastatic	Pleural Effusion	Female	NS	62	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+KPL-1	Carcinoma	Carcinoma	Metastatic	Pleural Effusion	Female	Japanese	NA	1	0	NS	Clinical information obtained from CCLE, DSMZ and ATCC. DNA fingerprinting analysis at the DSMZ showed cross-contamination with cell line MCF-7.
+MCF7	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	Caucasian	69	1	1	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+MDA-MB-134-VI	Ductal Carcinoma	Ductal Carcinoma	Metastatic	Pleural Effusion	Female	Caucasian	47	1	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+MDA-MB-157	Medullary Carcinoma	Medullary Carcinoma	Metastatic	Pleural Effusion	Female	Black	44	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+MDA-MB-175-VII	Ductal Carcinoma	Ductal Carcinoma	Metastatic	Pleural Effusion	Female	Black	56	NS	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
+MDA-MB-231	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	Caucasian	51	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+MDA-MB-361	Adenocarcinoma	Adenocarcinoma	Metastatic	Brain	Female	Caucasian	40	1	1	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+MDA-MB-415	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	Caucasian	38	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+MDA-MB-436	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	Caucasian	43	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+MDA-MB-453	Carcinoma	Carcinoma	Metastatic	Pericardial Effusion	Female	Caucasian	48	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+MDA-MB-468	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	Black	51	0	0	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+SK-BR-3	Adenocarcinoma	Adenocarcinoma	Metastatic	Pleural Effusion	Female	Caucasian	43	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC. SkBr3 line is derived from the same patient as the AU565 cell line.
+T-47D	Ductal Carcinoma	Ductal Carcinoma	Metastatic	Pleural Effusion	Female	NS	54	1	1	0	Clinical information obtained from CCLE, DSMZ and ATCC.
+UACC-812	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	NS	43	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+UACC-893	Ductal Carcinoma	Ductal Carcinoma	Primary Tumour	Primary Tumour	Female	Caucasian	57	0	0	1	Clinical information obtained from CCLE, DSMZ and ATCC.
+YMB-1	Ductal Carcinoma	Ductal Carcinoma	Metastatic	Ascites Fluid	Female	Caucasian	63	1	NS	NS	Clinical information obtained from CCLE, DMSZ and ATCC. Problematic cell line. Shown to be a ZR-75-1 derivative.
+ZR-75-1	Ductal Carcinoma	Ductal Carcinoma	Metastatic	Ascites Fluid	Female	Caucasian	63	1	NS	NS	Clinical information obtained from CCLE, DSMZ and ATCC.
