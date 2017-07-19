@@ -1,0 +1,41 @@
+{
+ "name": "Data",
+   "children": [
+    {
+     "name": "Pubmed",
+     "children": [
+        {"name": "Normal", "size": 200},
+        {"name": "Cancer", "size": 100},
+        {"name": "High-risk", "size": 50},
+        {"name": "Unknown", "size": 20}
+       ]
+    },
+    {
+     "name": "BCN Tissue Bank",
+     "children": [
+        {"name": "Normal", "size": 200},
+        {"name": "Cancer", "size": 100},
+        {"name": "High-risk", "size": 50},
+        {"name": "Unknown", "size": 20}
+       ]
+    },
+    {
+     "name": "Cancer Cell Line Encyclopedia",
+     "children": [
+        {"name": "Normal", "size": 200},
+        {"name": "Cancer", "size": 100},
+        {"name": "High-risk", "size": 50},
+        {"name": "Unknown", "size": 20}
+       ]
+    },
+    {
+     "name": "The Cancer Genome Atlas",
+     "children": [
+        {"name": "Normal", "size": 200},
+        {"name": "Cancer", "size": 100},
+        {"name": "High-risk", "size": 50},
+        {"name": "Unknown", "size": 20}
+       ]
+    }
+  ]
+}

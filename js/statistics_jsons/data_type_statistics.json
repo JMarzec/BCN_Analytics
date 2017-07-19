@@ -1,0 +1,37 @@
+{
+ "name": "Data",
+   "children": [
+    {
+     "name": "Pubmed",
+     "children": [
+        {"name": "Mutation", "size": 300},
+        {"name": "Copy Number Variation", "size": 20},
+        {"name": "Expression", "size": 30}
+       ]
+    },
+    {
+     "name": "BCN Tissue Bank",
+     "children": [
+       {"name": "Mutation", "size": 200},
+       {"name": "Copy Number Variation", "size": 50},
+       {"name": "Expression", "size": 10}
+       ]
+    },
+    {
+     "name": "Cancer Cell Line Encyclopedia",
+     "children": [
+       {"name": "Mutation", "size": 20},
+       {"name": "Copy Number Variation", "size": 100},
+       {"name": "Expression", "size": 5}
+       ]
+    },
+    {
+     "name": "The Cancer Genome Atlas",
+     "children": [
+       {"name": "Mutation", "size": 200},
+       {"name": "Copy Number Variation", "size": 100},
+       {"name": "Expression", "size": 50}
+       ]
+    }
+  ]
+}
